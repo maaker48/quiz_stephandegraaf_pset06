@@ -55,7 +55,8 @@ met je scoren maar ook dat je scoren in de rankings komt
 
 <img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/scoretoast.jpeg" alt="SSquizGkeuze" width="200px">  
 
-Als je wilt kijken hoe je geranked staat Kan je bij de categorieën scherm op het Sterretje drukkken en dan krijg je de ranking te zien
+Als je wilt kijken hoe je geranked staat Kan je bij de categorieën scherm op het Sterretje drukkken en dan krijg je de ranking te zien  
+
 <img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/highscore.jpeg" alt="SSquizGkeuze" width="200px">  
 
 
@@ -63,7 +64,6 @@ Als je wilt kijken hoe je geranked staat Kan je bij de categorieën scherm op he
 
 
 ## Acknowledgments
-
-
+* [Minor programeren Uva apps](https://apps.mprog.nl/)
 * [PurpleBooth project template for readme](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [Heauuuulllveeeel Vodka](http://vodka-beluga.com/)
