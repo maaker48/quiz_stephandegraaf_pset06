@@ -8,7 +8,7 @@ Only Android!
 ## **Quizapp by Stephan de graaf **
 **Pset06**
 
-Het maken van een Quiz app die gebruik maken van een api en Firebase
+Het maken van een Quiz app die gebruikt maken van een api en Firebase
 
 ## Beginnen
 
@@ -22,6 +22,7 @@ Het maken van een Quiz app die gebruik maken van een api en Firebase
 Benodigheden om dit het programma te kunnen gebruiken
 + android studio
 + Android 7.+ API24
++ Google account
 
 ## contributors van Repo
   + [**Stephan de Graaf**](https://github.com/maaker48) - *AFKER* -
@@ -32,7 +33,7 @@ Van deze repo
 
 ## 
 Dit is de eerste pagina van de app 
-Hier word je welkom geheten en gevraagt of je met je google account kan inloggen
+Hier word je welkom geheten en gevraagd of je met je google account kan inloggen
 <img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/begin.jpeg" alt="SSquizbegin" width="200px">  
 
 Als je de google sign-in button heb aangeklikt dan krijg je een popup om met je google account in te loggen  
@@ -44,18 +45,18 @@ Hier krijg je 10 vragen per categorie die je aan druk.
 
 <img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/catogorien.jpeg" alt="SSquizCatogorien" width="200px">  
 
-Als je een keuzen heb kunnenmaken dan krijg je een vragenlijst met 10 vragen over de betreffende onderwerp die je hebt gekozen.
-om te kunnen beantwoorden is er een toggle button Die je op True or False kan zetten.
-als je klaar bent druk je op Submit knop  
+Als je een keuze heb kunnen maken dan krijg je een vragenlijst met 10 vragen over de betreffende onderwerp die je hebt gekozen.
+Om te kunnen beantwoorden is er een toggle button Die je op True or False kan zetten.
+Zodra je klaar bent druk je op Submit knop  
 
 <img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/vragenlijst.jpeg" alt="SSquizvragenlijst" width="200px">  
 
-Als je op Submit hebt gedrukt krijg je een Toas(een bericht op je scherm)
-met je scoren maar ook dat je scoren in de rankings komt  
+Als je op Submit hebt gedrukt krijg je een toast(een bericht op je scherm)
+met je score maar ook dat je score in de rankings komt  
 
 <img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/scoretoast.jpeg" alt="SSquizGkeuze" width="200px">  
 
-Als je wilt kijken hoe je geranked staat Kan je bij de categorieën scherm op het Sterretje drukken en dan krijg je de ranking te zien  
+Wil je zien hoe hoog je ranking is druk dan op het sterretje in her hoofdmenu rechtsbovenin
 
 <img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/highscore.jpeg" alt="SSquizGkeuze" width="200px">  
 
