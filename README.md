@@ -1,7 +1,6 @@
-# quiz_stephandegraaf_pset06
-Dit is pset06
 # [Quiz-app Stephan de graaf](https://github.com/maaker48/quiz_stephandegraaf_pset06)
 [![BCH compliance](https://bettercodehub.com/edge/badge/maaker48/quiz_stephandegraaf_pset06?branch=master)](https://bettercodehub.com/)
+Only Android!
 
 
 
