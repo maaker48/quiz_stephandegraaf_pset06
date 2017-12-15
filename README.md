@@ -4,7 +4,7 @@ Only Android!
 
 
 
-![android eats apple](https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/androidvsios.jpg)
+![android eats apple](https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/Android-dinner-apple.jpg)
 ## **Quizapp by Stephan de graaf **
 **Pset06**
 
