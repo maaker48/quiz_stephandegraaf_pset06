@@ -33,20 +33,30 @@ Van deze repo
 ## 
 Dit is de eerste pagina van de app 
 Hier word je welkom geheten en gevraagt of je met je google account kan in loggen
-<img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/begin.jpeg" alt="SSquizbegin" width="200px">
-Als je de googlesign-in button heb aangeklikt dan krijg je een popup om met je google account in te loggen
-<img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/emailkeuze.jpeg" alt="SSquizGkeuze" width="200px">
-Als je bent in gelogt dan krijg je een menu met verschillende catogories
-Hier krijg je 10 vragen per catogorie die je aan druk.
-<img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/catogorien.jpeg" alt="SSquizCatogorien" width="200px">
+<img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/begin.jpeg" alt="SSquizbegin" width="200px">  
+
+Als je de googlesign-in button heb aangeklikt dan krijg je een popup om met je google account in te loggen  
+<img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/emailkeuze.jpeg" alt="SSquizGkeuze"   width="200px">  
+
+Als je bent in gelogt dan krijg je een menu met verschillende catogories  
+
+Hier krijg je 10 vragen per catogorie die je aan druk.  
+
+<img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/catogorien.jpeg" alt="SSquizCatogorien" width="200px">  
+
 Als je een keuzen heb kunnenmaken dan krijg je een vragen lijst met 10 vragen over de betrevende onderwerp die je heb gekozen.
 om te kunnen antwoorden is er een toggle button Die je op True or False kan zetten.
-als je klaar bent druk je op Submit knop
-<img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/vragenlijst.jpeg" alt="SSquizvragenlijst" width="200px">
+als je klaar bent druk je op Submit knop  
+
+<img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/vragenlijst.jpeg" alt="SSquizvragenlijst" width="200px">  
+
 Als je op Submit heb gedrukt krijg je een Toas(een bericht op je scherm)
-met je scoren maar ook dat je scoren in de rankings komt
-<img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/emailkeuze.jpeg" alt="SSquizGkeuze" width="200px">
+met je scoren maar ook dat je scoren in de rankings komt  
+
+<img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/scoretoast.jpeg" alt="SSquizGkeuze" width="200px">  
+
 Als je wilt kijken hoe je geranked staat Kan je bij de categorieën scherm op het Sterretje drukkken en dan krijg je de ranking te zien
+<img src="https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/highscore.jpeg" alt="SSquizGkeuze" width="200px">  
 
 
 
