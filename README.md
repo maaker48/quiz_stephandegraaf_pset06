@@ -5,7 +5,6 @@ Only Android!
 
 
 ![android eats apple](https://github.com/maaker48/quiz_stephandegraaf_pset06/blob/master/doc/Android-dinner-apple.jpg)
-## **Quizapp by Stephan de graaf **
 **Pset06**
 
 Het maken van een Quiz app die gebruikt maken van een api en Firebase
